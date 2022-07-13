@@ -14,3 +14,5 @@ I am also assisting in the area of HR, communicating with team members and inter
 - 🛢  Postgres + Redis
 - 📡  GraphQL
 - ☁️  Kubernetes + Serverless
+- 📋 Jira + Confluence
+- ⚙️ Gitlab
