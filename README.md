@@ -9,7 +9,7 @@ I care about clear ownership, operational stability, and growing strong engineer
 
 ### My stack
 
-Backend and platforms: Golang, Node.js, PostgreSQL, Redis, Kafka
-Infrastructure: Kubernetes, CI/CD, cloud platforms
-Frontend exposure: React, React Native
-Ways of working: GitLab, Jira, Confluence
+- Backend and platforms: Golang, Node.js, PostgreSQL, Redis, Kafka
+- Infrastructure: Kubernetes, CI/CD, cloud platforms
+- Frontend exposure: React, React Native
+- Ways of working: GitLab, Jira, Confluence
