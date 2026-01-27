@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 I’m Lars Gröber.
 Engineering leader with a strong backend and platform background.
