@@ -1,18 +1,15 @@
 ### Hi there 👋
 
-I am Lars Gröber, CTO and Cofounder of [Inheaden](https://inheaden.io) a growing software startup from Germany.
+I’m Lars Gröber.
+Engineering leader with a strong backend and platform background.
 
-My main work at Inheaden consists of taking care of software/product development tasks, choosing technologies, delivering great products and assisting everywhere where my technical expertise can help!
+I built and led a 30+ person engineering organization responsible for business-critical product platforms. My work focused on scalable backend systems, event-driven architectures, and reliable delivery in close alignment with product and business teams.
 
-I am also assisting in the area of HR, communicating with team members and interviewing candidates especially for the dev team.
+I care about clear ownership, operational stability, and growing strong engineering leaders. Most of my recent work lives in private repositories.
 
 ### My stack
 
-- 🖥  React + Nextjs + TypeScript
-- 📱  React Native + Expo + TypeScript
-- 👨‍💻  Golang
-- 🛢  Postgres + Redis
-- 📡  GraphQL
-- ☁️  Kubernetes + Serverless
-- 📋 Jira + Confluence
-- ⚙️ Gitlab
+Backend and platforms: Golang, Node.js, PostgreSQL, Redis, Kafka
+Infrastructure: Kubernetes, CI/CD, cloud platforms
+Frontend exposure: React, React Native
+Ways of working: GitLab, Jira, Confluence
