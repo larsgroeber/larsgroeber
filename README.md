@@ -1,15 +1,16 @@
 ### Hi there
 
-I’m Lars Gröber.
-Engineering leader with a strong backend and platform background.
+I'm Lars Gröber.
 
-I built and led a 30+ person engineering organization responsible for business-critical product platforms. My work focused on scalable backend systems, event-driven architectures, and reliable delivery in close alignment with product and business teams.
+Senior Software Engineer at vivenu, working on event infrastructure and ticketing systems. Previously co-founder and CTO at Inheaden, where I built and led a 30+ person engineering org.
 
-I care about clear ownership, operational stability, and growing strong engineering leaders. Most of my recent work lives in private repositories.
+I made a deliberate move back into focused engineering work. That's what I want to be doing.
 
-### My stack
+Stack I actually use:
+- Backend: Go, TypeScript, Node.js
+- Data: PostgreSQL, Redis
+- Infra: Kubernetes, CI/CD
+- Frontend: Next.js, React
+- Tooling: Zod, Vitest, Claude Code
 
-- Backend and platforms: Golang, Node.js, PostgreSQL, Redis, Kafka
-- Infrastructure: Kubernetes, CI/CD, cloud platforms
-- Frontend exposure: React, React Native
-- Ways of working: GitLab, Jira, Confluence
+Most work is in private repos.
